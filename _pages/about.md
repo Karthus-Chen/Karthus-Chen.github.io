@@ -31,7 +31,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.06 - 至今*, <a href="https://www.usst.edu.cn/"></a> 上海理工大学 机器智能研究院, 湖上海, 硕士 
+- *2023.06 - 至今*, <a href="https://www.usst.edu.cn/"></a> 上海理工大学 机器智能研究院, 上海, 硕士 
 - *2012.09 - 2016.06*, <a href="https://www.gench.edu.cn/"></a> 上海建桥学院 机电学院, 上海, 本科
 
 <!-- - *2023.06 - 至今*, <a href="https://www.usst.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 上海理工大学 机器智能研究院, 湖上海, 硕士 
